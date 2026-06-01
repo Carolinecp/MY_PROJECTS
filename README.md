@@ -1,2 +1,2 @@
 # MY_PROJECTS
-Here is where I save my projects wuth the languages I have learned.
+Here are the projects I developed using the programins laguages I've learned.
